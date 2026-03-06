@@ -2,4 +2,4 @@
 
 ## Trabalho sobre Criação de uma WIKIPEDIA do calouro EM DUPLAS
 
-Vamos colocar os cursos, 
+Vamos colocar as disciplinas, marcio lindppgit

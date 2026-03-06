@@ -8,4 +8,5 @@ O projeto consiste em criar, em duplas ou trio como nosso caso! Uma “Wikipedia
 Onde vamos abordar:
 * Dicas
 * Discilpinas
+* Festas
 
